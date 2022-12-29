@@ -1,0 +1,65 @@
+body {
+  background-color: gray;
+}
+
+.main_container {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 100px;
+  padding: 30px;
+  width: 500px;
+  height: 450px;
+  background-color: white;
+}
+
+.bodyContainer {
+  border: 1px solid lavender;
+}
+
+.title {
+  background-color: orange;
+  color: white;
+  padding: 0 160px;
+  box-sizing: border-box;
+}
+
+#good_day {
+  color: orange;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.line {
+  border: 1px dotted black;
+  margin: 15px 0;
+}
+
+.bodyTitle {
+  background-color: whitesmoke;
+  font-weight: 600;
+}
+
+.bodyContentContainer {
+  padding: 10px;
+}
+
+#red_color {
+  color: red;
+}
+
+#cheese_color {
+  color: orange;
+}
+#high_light {
+  font-style: italic;
+  color: blue;
+  font-weight: 600;
+}
+
+.weather {
+  color: gainsboro;
+  margin-left: 350px;
+}
+#sun {
+  padding-left: 35px;
+}
